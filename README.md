@@ -1,1 +1,1 @@
-# demoqa_tests
+# demoqa-tests
